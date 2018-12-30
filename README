@@ -1,0 +1,96 @@
+== 2811 CW3 material
+
+A qt application with multiple tabs. To interact with a users GitLab repositories.
+
+== prerequisites
+
+- qmake
+
+- qt >= 4.6
+
+Use this to: install qt:
+
+$ apt-get install qtbase5-dev
+
+== build
+
+$ ./configure
+
+$ make
+
+== run
+
+$ ./2811_gui
+
+Ensuring 2811_gui is at the top of your different git repositories.
+
+
+== Description:
+
+5 Different tabs to interact with the given repository.
+
+To first use the interactable tabs, navigate to the repository tab to chose the repository you would like.
+Adding new directories to the directory where 2811_gui will let you access the git repositories within them.
+
+You can change config settings, search through commits, add custom repositories,
+see statistic data, and also checkout different branches.
+
+
+== 2811 CW3 material
+
+
+
+A qt application with multiple tabs. To interact with a users GitLab repositories.
+
+
+
+== prerequisites
+
+
+- qmake
+
+- qt >= 4.6
+
+
+Use this to: install qt:
+
+$ sudo apt-get install qtbase5-dev
+
+
+
+== build
+
+
+
+$ ./configure
+
+$ make
+
+
+
+== run
+
+
+
+$ ./2811_gui
+
+Ensuring 2811_gui is at the top of your different git repositories.
+
+
+
+
+
+== Description:
+
+
+
+5 Different tabs to interact with the given repository.
+
+
+
+To first use the interactable tabs, navigate to the repository tab to chose the repository you would like.
+Adding new directories to the directory where 2811_gui will let you access the git repositories within them.
+
+You can change config settings, search through commits, add custom repositories,
+see statistic data, and also checkout different branches.
+
